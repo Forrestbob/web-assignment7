@@ -1,0 +1,38 @@
+
+
+.expiration {
+	width: 30px;
+	
+}
+
+#securitynumber {
+	width: 40px;
+}
+
+.removable {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}
+
+#blue {
+	background-color: blue;
+}
+#red {
+	background-color: red;
+}
+#green {
+	background-color: green;
+}
+#yellow {
+	background-color: yellow;
+}
+
+
+
