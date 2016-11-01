@@ -34,5 +34,8 @@ li{
 	background-color: yellow;
 }
 
-
+#recyclebin {
+	height: 100px;
+	width: 100px;
+}
 
