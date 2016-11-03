@@ -13,23 +13,13 @@ $(document).ready(function(){
 			$("#card-info").hide();
 		}
 	});
-	
-	
-$( init );
-
-function init() {
-	$('li').draggable();
-}
-	
-	
-	
 });
-/*
+
 $( init );
 
 function init() {
 	$('li').draggable();
 }
-*/
+
 
 
